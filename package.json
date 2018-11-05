@@ -1,0 +1,18 @@
+{
+  "name": "costtracker",
+  "version": "1.0.0",
+  "description": "Tracks daily, monthly, weekly costs",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "zetiko8",
+  "license": "ISC",
+  "dependencies": {
+    "validationmodel": "file:../validationModel"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
